@@ -1,4 +1,4 @@
-# Amazon Sales Data Analysis – 2018
+# Amazon Sales Data – Analysis – 2018
 
 This project analyzes Amazon sales data for the year 2018 using **Excel, SQL, Python, and Microsoft Power BI**. The project focuses on data cleaning, data analysis, transformation, and visualization to identify important sales trends and business insights.
 
