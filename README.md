@@ -41,7 +41,6 @@ The main objective of this project is to transform raw Amazon sales data into me
 The screenshot below provides a preview of the interactive Amazon Sales Dashboard created using Microsoft Power BI.
 
 ## 📊 Power BI Dashboard Preview
-  https://github.com/touseef2005-data/Amazon-Sales-Data-Analysis-2018/blob/main/Amazon%20Sales%20Data%20Analysis%20%E2%80%93%20
-  
+ https://github.com/touseef2005-data/Amazon-Sales-Data-Analysis-2018/blob/main/Amazon%20Sales%20Data%20Analysis%20%E2%80%93%202018.png  
 - Dashboard Development
 - Business Reporting
